@@ -2,7 +2,7 @@
 
 This is a code package is related to the following scientific article:
 
-Z. Wang, J. Zhang, E. Björnson and B. Ai, "Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels," in IEEE Communications Letters, vol. 25, no. 4, pp. 1348-1352, Apr. 2021.
+Z. Wang, J. Zhang, E. Björnson, and B. Ai, "Uplink Performance of Cell-Free Massive MIMO Over Spatially Correlated Rician Fading Channels," in IEEE Communications Letters, vol. 25, no. 4, pp. 1348-1352, Apr. 2021.
 
 Available at: https://arxiv.org/abs/2110.05796
 
